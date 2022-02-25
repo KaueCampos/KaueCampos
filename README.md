@@ -30,16 +30,17 @@
     
 </div><br/>
 
-### Tecnologias sendo aprendidas nesse momento
-<div style="display: inline_block"> <br/>
- <img align="center" alt="html5" 
-    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
- <img align="center" alt="html5" 
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
- <img align="center" alt="html5" 
-    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
-</div><br/>
+```
+def print_hi(objetivo):
 
-Aprendendo para mudar o mundo!
+    print(f'Aprendendo, {objetivo}')
+
+
+if __name__ == '__main__':
+    print_hi('para mudar o mundo!')
+
+```
+
+Aprendendo, para mudar o mundo!
