@@ -29,18 +29,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/kauecampos-/)
 
-```
-def print_hi(objetivo):
-
-    print(f'Aprendendo, {objetivo}')
-
-if __name__ == '__main__':
-    print_hi('para mudar o mundo!')
-
-```
-
-``
-  Aprendendo, para mudar o mundo!
-``
 
 
