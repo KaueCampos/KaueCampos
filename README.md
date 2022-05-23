@@ -1,9 +1,4 @@
 
-### Olá! Sou o Kaue Campos 😀
-
-
-
-
 <div align="center">
   <a href="https://github.com/KaueCampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueCampos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
