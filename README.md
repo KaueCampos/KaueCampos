@@ -1,4 +1,17 @@
 
+
+Hello my name is Kaue Campos
+
+Developer focused on backend in particular process integrations and automations
+
+All codes developed and posted here are opensource
+
+some for study and another that came to mind :)
+
+I have a [Youtube](https://www.youtube.com/channel/UCLDEBHV5LWCh88KwStsWbCw) channel that I'm developing videos classes to help who is starting in the area.
+  
+
+
 <div align="center">
   <a href="https://github.com/KaueCampos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaueCampos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -28,6 +41,9 @@
 )](https://www.instagram.com/kaue.oliveira__/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/kauecampos-/)
+  
+
+  
 
 
 
