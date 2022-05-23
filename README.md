@@ -1,8 +1,8 @@
 
 
-Hello my name is Kaue Campos
+** Hello** my name is **Kaue Campos**
 
-Developer focused on backend in particular process integrations and automations
+Developer focused on **back-end** in particular process integrations and automations
 
 All codes developed and posted here are opensource
 
