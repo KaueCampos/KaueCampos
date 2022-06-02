@@ -23,14 +23,21 @@ I have a [Youtube](https://www.youtube.com/channel/UCLDEBHV5LWCh88KwStsWbCw) cha
     <img align="center" alt="html5" 
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="html5" 
-    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img align="center" alt="html5" 
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  
-    <img align="center" alt="html5" 
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>  
+    <img align="center" alt="html5"    
     src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
     <img align="center" alt="html5" 
-    src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>  
+    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>  
+    <img align="center" alt="html5" 
+    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
+    <img align="center" alt="html5" 
+    src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>   
+  
     
+  
+  
   
 </div><br/>
 
