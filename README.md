@@ -1,6 +1,11 @@
 
 
 **Hello** my name is **Kaue Campos**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/kaue.oliveira__/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/kauecampos-/)
+  
 
 Developer focused on **back-end** in particular process integrations and automations, all codes developed and posted here are opensource some for study and another that came to mind :)
 
@@ -38,13 +43,7 @@ I have a [Youtube](https://www.youtube.com/channel/UCLDEBHV5LWCh88KwStsWbCw) cha
 </div><br/>
 
 
-## Minhas Conexões
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/kaue.oliveira__/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/kauecampos-/)
-  
 
   
 
